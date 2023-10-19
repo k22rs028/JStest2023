@@ -18,6 +18,8 @@ html,body {
   font-size: 2em;
 }
 
+#disp1::after{
+}
 
 #btn::after {
   content: "▶";
